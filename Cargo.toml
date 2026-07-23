@@ -3,6 +3,7 @@ exclude = [
   "tests/test_exercises",
   "dev",
 ]
+members = ["book/ch07-00-managing-growing-projects-with-packages-crates-and-modules/backyard","book/ch07-00-managing-growing-projects-with-packages-crates-and-modules/my-project"]
 
 [workspace.package]
 version = "6.5.0"
